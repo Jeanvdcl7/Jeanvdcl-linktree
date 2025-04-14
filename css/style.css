@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family: 'Raleway', 'sans-serif';
+    color: white;
+    background: rgb(54, 77, 204);
+    background: linear-gradient(176deg, rgba(54,77,204,1) 0%, rgba(19,35,124,1) 100%);
+}
+
+.avatar {
+    width: 80px;
+    border-radius: 50px;
+    border: 3px solid white;
+    box-shadow: 0 0 20px white;
+}
+
+h1 {
+    font-family: 'Architects Daughter', cursive;
+    font-weight: 100;
+    font-size: 24px;
+    margin-bottom: 2px;
+}
+
+h2 {
+    font-size: 16px;
+}
+
+.profile {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.social {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    margin: 20px 0;
+}
+
+.social img {
+    width: 33px;
+}
+
+h3 {
+    font-family: 'Architects Daughter', cursive;
+    font-weight: 777;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+
+.titulo1 {
+    text-align: center;
+    background: rgb(172, 147, 10);
+    margin: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px white;
+}
+
+.my-skills {
+    list-style: none;
+}
+
+.my-skills li {
+    margin: 10px 20px;
+}
+
+.my-skills li a {
+    display: block;
+    background: white;
+    padding: 15px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.my-skills li a span {
+    display: block;
+    color: grey;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.my-skills li a.active {
+    color: rgb(54,77,204);
+}
+
+h4 {
+    font-family: 'Architects Daughter', cursive;
+    font-weight: 777;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    margin-top: 30px;
+}
+
+.titulo2 {
+    text-align: center;
+    background: rgb(172, 147, 10);
+    margin: 10px 20px;
+    border-radius: 10px; 
+    box-shadow: 0 0 20px white;
+}
+
+.my-skills.second {
+    margin-top: 10px;
+}
+
+h5 {
+    font-family: 'Architects Daughter', cursive;
+    font-weight: 777;
+    font-size: 30px;
+    color: black;
+    margin-top: 30px;
+}
+
+.titulo3 {
+    text-align: center;
+    background: rgb(172, 147, 10);
+    margin: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px white;
+}
+
+.my-skills.third {
+    margin-top: 10px;
+}
