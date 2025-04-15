@@ -52,7 +52,7 @@ h3 {
     font-family: 'Architects Daughter', cursive;
     font-weight: 777;
     font-size: 30px;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 .titulo1 {
@@ -96,7 +96,7 @@ h4 {
     font-family: 'Architects Daughter', cursive;
     font-weight: 777;
     font-size: 30px;
-    color: white;
+    color: rgb(255, 255, 255);
     margin-top: 30px;
 }
 
@@ -116,7 +116,7 @@ h5 {
     font-family: 'Architects Daughter', cursive;
     font-weight: 777;
     font-size: 30px;
-    color: white;
+    color: rgb(255, 255, 255);
     margin-top: 30px;
 }
 
@@ -137,5 +137,5 @@ h5 {
     background-color: black;
     text-align: center;
     margin-top: 30px;
-    padding: 10px 0;
+    padding: 10px;
 }
